@@ -99,6 +99,11 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "check-dependencies": "^1.1.0",
+    "node-pre-gyp": "^0.15.0",
+    "portscanner": "^2.2.0",
+    "replace": "^1.2.0",
+    "sqlite3": "^5.0.0",
+    "socket.io-client": "^2.3.0",
     "clarinet": "^0.12.4",
     "colors": "^1.4.0",
     "compression": "^1.7.4",
