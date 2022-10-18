@@ -18,7 +18,7 @@ application:
     name: 'Juicy'
     greeting: "Nice to meet you <customer-name>, I'm <bot-name>"
     trainingData: 'botDefaultTrainingData.json'
-    defaultResponse: "Sorry I couldn't understand what you were trying to say"
+    defaultResponse: "Sorry I couldn't understand what you were trying to say, please try again"
     avatar: 'JuicyChatBot.png'
   social:
     twitterUrl: 'https://twitter.com/owasp_juiceshop'
@@ -39,7 +39,7 @@ application:
     textColor: '#ffffff'
     buttonColor: '#558b2f'
     buttonTextColor: '#ffffff'
-    message: 'This website uses fruit cookies to ensure you get the juiciest tracking experience.'
+    message: 'This website uses fruit cookies to ensure you get the juiciest tracking experience......'
     dismissText: 'Me want it!'
     linkText: 'But me wait!'
     linkUrl: 'https://www.youtube.com/watch?v=9PnbKL3wuH4'
